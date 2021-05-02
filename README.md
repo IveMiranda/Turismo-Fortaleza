@@ -1,6 +1,5 @@
 # Turismo Fortaleza
  Principais pontos turísticos de Fortaleza-CE
-Index 
  
 ![alt text](imagens/fortal1.png)
 ![alt text](imagens/fortal2.png)
